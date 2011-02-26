@@ -1,0 +1,3 @@
+Dave's Sample app for learning rails... move along...
+
+dbc
